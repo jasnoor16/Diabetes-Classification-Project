@@ -24,6 +24,11 @@ This project focuses on predicting whether a patient is diabetic, non-diabetic, 
 ## Results
 The best performing model was **XGBoost**, which achieved high accuracy and strong precision, recall, and F1-scores.
 
+## Dataset
+The dataset used for this project can be found on Mendeley Data:  
+[Diabetes Dataset on Mendeley](https://data.mendeley.com/datasets/wj9rwkp9c2/1)  
+**Citation**: Rashid, Ahlam (2020), “Diabetes Dataset”, Mendeley Data, V1, doi: [10.17632/wj9rwkp9c2.1](https://doi.org/10.17632/wj9rwkp9c2.1)
+
 ## How to Run the Project
 1. Clone the repository:
    ```bash
